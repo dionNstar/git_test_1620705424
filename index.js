@@ -12,6 +12,7 @@ function feature3(){
     alert('from feature 3.');
 }
 
+//add feature 4
 function feature4(){
     alert('from feature 4.');
 }
